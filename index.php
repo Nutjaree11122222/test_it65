@@ -2,7 +2,9 @@
       include 'banner.php';
       include 'navbar.php';
 ?>
-<div >
-    <h1>Page Index</h1>
+<div class="container mt-5">
+  <div class="row">
+  <h1>page index</h1>
+  </div>
 </div>
 <?php include 'footer.php'?>
