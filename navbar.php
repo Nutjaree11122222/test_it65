@@ -5,7 +5,7 @@
         <a class="nav-link active" href="#">Active</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
+        <a class="nav-link" href="show_student3.php">student3</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Link</a>
